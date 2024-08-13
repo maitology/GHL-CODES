@@ -1,0 +1,12 @@
+/* Action: BUTTON BECOMES WHITE W/ BLACK FONT UPON HOVER */
+/* Upon Hover, Button (Custom Class Name: btn-1) shows white background with black font.
+You can change the BG colour. This is only Applicable to Solid colours, not Gradient. */
+
+.btn-1:hover {
+    Background: #FFFFFF;
+    color: #000000;
+}
+
+
+
+
