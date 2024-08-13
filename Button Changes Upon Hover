@@ -7,6 +7,17 @@ You can change the BG colour. This is only Applicable to Solid colours, not Grad
     color: #000000;
 }
 
+==========================================================================================
+
+/* Action: BUTTON BECOMES GRADIENT COLOUR UPON HOVER */
+/* The Button Element (Custom Class Name: btn-2) becomes gradient upon hover, in this example it is blue. */
+
+.btn-2:hover {
+    background-image: linear-gradient(to left, #051937, #012553, #003170, #003e8e, #004aad);
+}
+
+
+
 
 
 
